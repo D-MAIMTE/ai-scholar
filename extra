@@ -1,0 +1,64 @@
+
+            <!--THE HOME PAGE-->
+            <div class="container">
+                <div class="row my-5 justify-content-center">
+                <div class="techbox col-2 col-md-1 col-lg-1">
+                    <ul class="bg-warning list-group shadow">
+                        <li class="list-group-item">
+                            <img class="img-fluid" src="./images/html.png" alt="">
+                        </li>
+                         <li class="list-group-item">
+                            <img class="img-fluid" src="./images/css3.png" alt="">
+                        </li>
+                         <li class="list-group-item">
+                            <img class="img-fluid" src="./images/js.png" alt="">
+                        </li>
+                         <li class="list-group-item">
+                            <img class="img-fluid" src="./images/bootstrap.png" alt="">
+                        </li>
+                         <li class="list-group-item">
+                            <img class="img-fluid" src="./images/react.png" alt="">
+                        </li>
+                         <li class="list-group-item">
+                            <img class="img-fluid" src="./images/sql-server.png" alt="">
+                        </li>
+                    </ul>
+                </div>
+                <!--THE WELLCOMING TEXT-->
+                     <div class="textbox col-9 col-lg-7 ps-5 py-4">
+                        <div class="row">
+                        <h1 class="">Learn, Grow, & Achive with Expert Guidance</h1>
+                        <p class="">Access high quality courses anytime, anywhere, & take control of your learning juourny with ease.</p>
+                        </div>
+                        <div class="row">
+                            <div class="col-5">
+                                <button class="btn btn-primary">Get Start Now</button>
+                            </div>
+                        </div>
+                     </div>
+
+                     <!--THE FORM--> 
+                     <div class="col-12 col-md-7 col-lg-4 p-4">
+                        <div class="card p-4 shadow">
+                        <div class="texo">
+                            <h1 class="text-center fs-4">Grow Your Career with Us</h1>
+                        </div>
+                        <div class="form w-60">
+                       <form class="">
+            <p class="fs-5 text-primary text-center">Have Questions? Contact Us!</p>
+            <div class="text justify-content-evenly">
+            <input type="text" class="form-control my-4" placeholder="NAME" required>
+            <input type="tel" class="form-control my-4" placeholder="MOBILE" required>
+            <input type="email" class="form-control my-4" placeholder="EMAIL" required>
+            <input type="text" class="form-control my-4" placeholder="ADDRESS" required>
+            </div>
+            <input type="checkbox" class="col" checked>
+            <p class="col">I agree to receive SMS & WhatsApp communications.</p>
+            <input type="submit" class="btn btn-primary col-12">
+        </div>
+    </form>
+                       </div>
+                        </div>
+                     </div>
+                </div>
+            </div>

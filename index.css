@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body{
+    background-image: url(./images/bgimgbody2.avif);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/*THE HOME PAGE ALL ADD's*/
+#homepage #homeheading{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+#homepage #homeheading #spacialword{
+    font-family: 'Times New Roman', Times, serif;
+}
+#homepage #homeheading #spacialwordtwo{
+    font-family:cursive;
+}
+
+
+#homepage #coursesbutton{
+    background-color: transparent;
+    border-radius: 2rem;
+    transition: 0.2s;
+}
+#homepage #coursesbutton:hover{
+    background-color: #fff;
+    border-radius: 5px;
+    border: none;
+}
+
+/*THE COURSES SECTION ALL ADD's*/
+#course_section #cardok{
+    background-color: #ffffff6c;
+    height: 90%;
+    border-radius: 10px;
+    overflow: hidden;
+}
+#course_section #cardok img{
+    width: 100%;
+    height: 50%;
+}
+
+/*THE ABOUT PAGE*/
+#aboutpage #knowmorebutton{
+    padding: 5px 10px;
+    background-color: #fff;
+    transition: 0.2s;
+    border-radius: 2rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#aboutpage #knowmorebutton:hover{
+    padding: 5px 15px;
+    background-color: transparent;
+    border: 1px solid black;
+}
+ 
+    
